@@ -1,7 +1,7 @@
 # Sentiment Prediction of Reviews using IMDB dataset
 
 ## Introduction
-This project is about predicting the sentiment of reviews using the IMDB dataset. The dataset contains 50,000 reviews, which are divided into 25,000 reviews for training and 25,000 reviews for testing. The reviews are labeled as positive or negative. The goal of this project is to predict the sentiment of the reviews using machine learning algorithms.
+This project is about predicting the sentiment of reviews using the IMDB dataset. The dataset is balanced and contains 50,000 reviews from kaggle. The reviews are labeled as positive or negative. The goal of this project is to predict the sentiment of the reviews using machine learning algorithms.
 
 ## Data
 The dataset contains 50,000 reviews, which are divided into 25,000 positive reviews and 25,000 negative reviews. The reviews are labeled as positive or negative. The dataset is available at [IMDB dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
